@@ -9,3 +9,4 @@ window.LUNARA_PRODUCTS = [
   {id:"solace-necklace",name:"Dây chuyền ngọc trai Solace",category:"necklaces",pearlType:"Ngọc trai baroque",price:249,material:"Bạc sterling",size:"9–10 mm",dimensions:"Dây chuyền dài 18 inch",code:"TY-N07",image:"images/solace-necklace.svg",description:"Viên ngọc trai baroque độc bản trên nền dây bạc tinh giản. Tự nhiên, hiện đại và mang nét riêng không thể lặp lại."},
   {id:"nacre-stack",name:"Bộ nhẫn ngọc trai Nacre",category:"rings",pearlType:"Ngọc trai Akoya",price:310,material:"Vàng nguyên khối 14K",size:"6 mm",dimensions:"Cỡ nhẫn 5–9",code:"TY-R08",image:"images/nacre-stack.svg",description:"Hai đai nhẫn thanh mảnh cùng một viên ngọc trai Akoya nhỏ. Thiết kế điêu khắc với chút bất đối xứng đầy cá tính."}
 ];
+
