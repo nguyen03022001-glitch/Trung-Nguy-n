@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nguyen03022001-glitch.github.io/Trung-Nguy-n/sitemap.xml
