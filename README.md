@@ -1,4 +1,4 @@
-# Lunara Pearl Co.
+# Tâm Ý Jewelry
 
 A complete, framework-free luxury pearl jewelry storefront designed for free deployment with GitHub Pages.
 
@@ -8,7 +8,7 @@ A complete, framework-free luxury pearl jewelry storefront designed for free dep
 - Centralized product catalog in `js/products.js`.
 - Client-side category filters, price sorting, global search, product detail routing, and localStorage shopping bag.
 - Static order-request form that opens a prefilled WhatsApp message. Replace the number and other brand settings in `js/main.js`.
-- Local SVG placeholder artwork in `images/`; replace these files with real optimized product photos without changing the catalog structure.
+- Local SVG placeholder artwork and the optimized Tâm Ý Jewelry cover image in `images/`; replace these files with real product photos without changing the catalog structure.
 - Basic SEO metadata, Open Graph tags, favicon, `robots.txt`, and `sitemap.xml`.
 
 ## Run locally
@@ -32,7 +32,7 @@ Then visit <http://localhost:8000>.
 
 ## Customize
 
-Open `js/main.js` and edit `LUNARA_CONFIG` to change the brand name, currency, email, Instagram URL, WhatsApp number, and shipping message. Edit `js/products.js` to add products or update prices and image paths.
+Open `js/main.js` and edit `LUNARA_CONFIG` to change the brand name, currency, email, Facebook URL, WhatsApp number, and shipping message. The current display currency is USD. Edit `js/products.js` to add products or update prices and image paths.
 
 For a project-site URL, keep all links relative as provided. If you change the repository name, update the canonical URL in `robots.txt` and `sitemap.xml`.
 
